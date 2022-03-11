@@ -2,3 +2,110 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+
+    <url>
+        <loc>https://heartsandhandsrestoration.com/index</loc>
+        <lastmod>2022-03-11</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://heartsandhandsrestoration.com/store</loc>
+        <lastmod>2022-03-11</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://heartsandhandsrestoration.com/reviews</loc>
+        <lastmod>2022-03-11</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://heartsandhandsrestoration.com/gallery-All</loc>
+        <lastmod>2022-03-11</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://heartsandhandsrestoration.com/gallery-Interior-Painting</loc>
+        <lastmod>2022-03-11</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://heartsandhandsrestoration.com/gallery-Exterior-Painting</loc>
+        <lastmod>2022-03-11</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://heartsandhandsrestoration.com/gallery-Decks</loc>
+        <lastmod>2022-03-11</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://heartsandhandsrestoration.com/gallery-Cabinets</loc>
+        <lastmod>2022-03-11</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://heartsandhandsrestoration.com/service-Stair-Railing-Painting</loc>
+        <lastmod>2022-03-11</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://heartsandhandsrestoration.com/service-Cabinet-Painting</loc>
+        <lastmod>2022-03-11</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://heartsandhandsrestoration.com/service-Deck-Restoration</loc>
+        <lastmod>2022-03-11</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://heartsandhandsrestoration.com/service-Interior-Painting</loc>
+        <lastmod>2022-03-11</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://heartsandhandsrestoration.com/service-Exterior-Painting</loc>
+        <lastmod>2022-03-11</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://heartsandhandsrestoration.com/service-Drywall-and-Plastering</loc>
+        <lastmod>2022-03-11</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://heartsandhandsrestoration.com/service-Staining</loc>
+        <lastmod>2022-03-11</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+</urlset>
